@@ -1,0 +1,120 @@
+.wie-container {
+     margin:0 auto;
+     padding: 10px;
+}
+ .wie-button-primary {
+     margin-top: 15px;
+}
+ .wie-tip p i {
+     font-size: 16px;
+     bottom: 100px;
+     margin-left: 50px;
+}
+ .wie-importsec {
+     line-height: 1;
+     cursor: pointer;
+     margin: 0 auto;
+     background: #fafafa;
+     border: 1px solid #e5e5e5;
+     padding: 31px;
+     display: inline-block;
+     width: 441px;
+}
+ .wie-notice{
+     margin: 13px 0px 13px;
+}
+ .wie-show-notice {
+     margin: 13px 20px 13px;
+}
+ button#wie-button-import {
+     position: relative;
+     left: 65px;
+     top: 10px;
+}
+ #wie-import-filew {
+     margin-top: 10px;
+}
+ .wie-hr {
+     border-style: inset;
+     border-width: 1px;
+     margin-right: 20px;
+}
+ .wie-head {
+     font-size: 20px;
+}
+ .wie-checkbox {
+     padding: 5px;
+     display: block;
+     text-align: left;
+     background-color: white;
+     overflow: hidden;
+     text-transform: capitalize;
+     transition: max-height 0.2s ease-out;
+     line-height: 2;
+     font-size: 15px;
+     margin: 13px 20px 13px;
+}
+ .wie-active_widget {
+     margin-left: 20px;
+     font-weight: bold;
+     margin-top: 10px;
+}
+ .wie-checkbutton {
+     padding: 5px;
+     margin-left: 20px;
+}
+ #wie-unselect {
+     margin-left: 10px;
+}
+ .wie-sidebar {
+     background-color: #f1f1f1;
+     color: #444;
+     padding: 5px;
+     font-family: arial;
+     width: 90%;
+     border: none;
+     font-weight: bold;
+     text-align: left;
+     outline: none;
+     font-size: 16px;
+     display: inline-block;
+     margin-left: 20px;
+     margin-top: 10px;
+}
+ .wie-Imported_widgets {
+     line-height: 2;
+     text-align: left;
+     display: block;
+     width: 30%;
+     text-transform: capitalize;
+     margin-left: 50px;
+     position: relative;
+     font-size: 15px;
+}
+ .wie-widget_available_txt_color {
+     color: orange;
+     float: right;
+     width: 50%;
+     text-align: right;
+     padding-right: 20px;
+}
+ .wie-imported_txt_color {
+     color: green;
+     float: right;
+     width: 50%;
+     text-align: right;
+     display: inline-block;
+     padding-right: 54px;
+}
+ .wie-no_widget {
+     margin-left: 30px;
+     font-weight: bold;
+     margin-top: 15px;
+}
+ .wie-notice-warning {
+     width: 30%;
+}
+ .wie-notice-warning a {
+     cursor: pointer;
+}
+ 
